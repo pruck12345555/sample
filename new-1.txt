@@ -1,2 +1,2 @@
 asdasdasdas
-asfasfasf
+asfasfasf <edit file in new-1.txt>
